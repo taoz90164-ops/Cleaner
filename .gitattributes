@@ -1,0 +1,2 @@
+# Preserve template hashes and PowerShell UTF-8 BOM bytes on every checkout.
+* -text

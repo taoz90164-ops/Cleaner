@@ -1,0 +1,11 @@
+reports/
+tests/
+*.zip
+scan.json
+scan-*.json
+cleanup-*.json
+*待清理路径名单*.txt
+*盘空间分析*.html
+*.log
+.DS_Store
+Thumbs.db
